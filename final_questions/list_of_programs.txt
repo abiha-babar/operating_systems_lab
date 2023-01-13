@@ -1,0 +1,18 @@
+LIST OF PROGRAMS
+
+1.  Write a C++ program where a process sends 3 messages and then recieves them in the same order. Print the recieved messages on screen. (Source: questions_file_1.jpeg)
+2.  Write a C++ program to print id, name and cgpa passed by another program using execl() system call. (Source: questions_file_1.jpeg)
+3.  Write a C++ program to implement producer and consumer problem. (Source: questions_file_1.jpeg)
+4.  Write a C++ program to create a child process using fork system call. Your program should execute the child process before the parent process and print the file path using execlp system call. Also print parent and child process ID (Source: questions_file_1.jpeg)
+5.  Write a C++ program where user passes a number to thread function that prints the factorial of that number. (Source: questions_file_1.jpeg, questions_file_1.1.jpeg)
+6.  Write a C++ program that shows that global data is shareable between threads but not shareable between parent and child process. (program 5 from OS Lab Manual). (Source questions_file_1.1.jpeg)
+7.  Write a C++ program to send message from parent to child using pipes. (Source questions_file_1.2.jpeg)
+8.  Write a C++ program to show that threads are executed in Multicore Systems. (Source questions_file_1.2.jpeg)
+9.  Write a C++ program that shows that global data is shareable between multiple threads. (Source questions_file_1.2.jpeg)
+10. Write a C++ program where a child process is orphan for 5 seconds and print parent and child process ID in both sections. (Source questions_file_1.2.jpeg)
+11. Write a C++ program where server sends your name (entered by user) as message to client (printed on-screen at client program) using named pipes. (Source questions_file_1.2.jpeg)
+12. Write a C++ program where you copy ['Linux World!!', 'Understanding', 'Concepts', 'of', 'Piping'] in a character array using pipes.  (Source questions_file_1.3.jpeg)
+13. Write a C++ program to take 3 strings input from user and write in a file using IO system calls. Your program should also read all strings from file and print on the console. (Source questions_file_1.3.jpeg)
+14. Write a C++ program to implement a scenario where program created 4 threads and each thread uses keyboard. Kernal assigns keyboard to only one thread at a time. (Source questions_file_1.3.jpeg)
+15. Write a C++ program to create a child process using fork system call. Your program should execute child process before parent and print child and parent process ids. (Source questions_file_1.4.jpeg)
+16. Write a C++ program where the parent process becomes a zombie (a process is called zombie if its child dies) process for 10 seconds. (Source questions_file_1.4.jpeg)
